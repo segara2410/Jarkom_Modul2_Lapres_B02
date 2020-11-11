@@ -283,7 +283,7 @@ Lalu restart apache
 >
 > Tambahkan AllowOverride All untuk directory penanjakan.semerub02.pw
 
-![](media/image27.png)
+> ![](media/image27.png)
 
 > Hasilnya semua akses file gambar yang mengandung "semeru" akan
 > diarahkan ke semeru.jpg
